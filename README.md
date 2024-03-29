@@ -27,9 +27,11 @@ The intensity curve for each section starts slow to allow the player to adjust t
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+The main challenges are the small areas where the keys are, the reason these are the big challenges is because it combines several mechanics with multiple enemies. This provides pressure/tension to the player who may not have time to think/move around to solve the puzzle before being killed by the enemy.
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
