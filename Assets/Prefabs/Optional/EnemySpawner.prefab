@@ -24,12 +24,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4481593276692142744}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 12.469943, y: -8.72266, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4584701848128434368
 MonoBehaviour:
@@ -46,8 +47,8 @@ MonoBehaviour:
   prefab: {fileID: 1919611099958742, guid: 9a2f32836e0e10248b425c273622a735, type: 3}
   initialPoolCount: 5
   totalEnemiesToBeSpawned: 5
-  concurrentEnemiesToBeSpawned: 1
-  spawnArea: 1
+  concurrentEnemiesToBeSpawned: 5
+  spawnArea: 3
   spawnDelay: 3
   removalDelay: 1.5
   dataSettings:
