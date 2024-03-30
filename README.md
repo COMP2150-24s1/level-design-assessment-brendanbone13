@@ -19,7 +19,7 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
-
+I have tried to seperate mechanics to give the player a feel for them before encountering them in a challenge environment. For example the first section allows the player to see the spikes and spitter before using them together in a more intense situation. Another example is the door/cube at the start to let the player know they need it to keep the door open, this also helps the player with the first challenge section of the map.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
