@@ -48,7 +48,7 @@ The reason i chose to combine all these mechanics into this encounter is to prov
 ### 2.5. Keys
 
 ### 2.6. Moving Platforms
-![This is the alt text for an image!](DocImages/StoryBoard2.png)
+![This is the alt text for an image!](DocImages/Storyboard2.png)
 
 ### 2.10. Weapon Pickup (Gun)
 
