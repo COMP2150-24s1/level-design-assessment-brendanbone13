@@ -56,6 +56,8 @@ The reason i chose the moving platform here is to allow the player to use it to 
 ### 2.3. Weapon Pickup (Gun), Keys
 ![This is the alt text for an image!](DocImages/storyboard3.png)
 
+The reason i chose the Weapon pickup (gun) and one of the keys here is to have it as a reward for the player for completing this small but intense challenge. This gives the player tension as there is both enemy types to hinder the player from completing their objective and a small puzzle like challenge.
+
 
 ### 2.11. Weapon Pickup (Staff)
 
