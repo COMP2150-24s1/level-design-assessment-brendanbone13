@@ -50,6 +50,8 @@ The reason i chose to combine all these mechanics into this encounter is to prov
 ### 2.6. Moving Platforms
 ![This is the alt text for an image!](DocImages/Storyboard2.png)
 
+The reason i chose the moving platform here is to allow the player to use it to explore other locations within the level. The acid below it also adds an element of danger so they have to be careful.
+
 ### 2.10. Weapon Pickup (Gun)
 
 ### 2.11. Weapon Pickup (Staff)
