@@ -56,13 +56,11 @@ The reason i chose to combine all these mechanics into this encounter is to prov
 
 The reason i chose the moving platform here is to allow the player to use it to explore other locations within the level. The acid below it also adds an element of danger so they have to be careful.
 
-### 2.3. Weapon Pickup (Gun), Keys
+### 2.3. Weapon Pickup (Gun), Weapon Pickup (Staff), Keys
 ![This is the alt text for an image!](DocImages/storyboard3.png)
 
-The reason i chose the Weapon pickup (gun) and one of the keys here is to have it as a reward for the player for completing this small but intense challenge. This gives the player tension as there is both enemy types to hinder the player from completing their objective and a small puzzle like challenge.
+The reason i chose the Weapon pickup (gun), Weapon Pickup (Staff) and one of the keys here is to have it as a reward for the player for completing this small but intense challenge. This gives the player tension as there is both enemy types to hinder the player from completing their objective and a small puzzle like challenge.
 
-
-### 2.11. Weapon Pickup (Staff)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
