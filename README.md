@@ -35,6 +35,9 @@ The main challenges are the small areas where the keys are, the reason these are
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
+There are 2 main ways it invites the player to explore. The level is designed to force the player to go back the way they came to get to different parts they couldn't otherwise get to. An example of this is the 2 way route with the first moving platform, the 2nd area is only accessable once the player has the gun to shoot the switch to open the door. Another example is once they receive the staff from the 2nd section, this allows the player to return to the start to break the breakable wall to access the 3rd section.
+Each section and layout choice is created in a distinctive way with multiple uses of sprite assets, local post volumes and open sections with backgrounds. This allows the player to know each section seperately.
+
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
