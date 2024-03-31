@@ -39,6 +39,7 @@ A section on Core Gameplay, where storyboards are used to outline how you introd
 Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
 
 You should restructure the headings below to match the order they appear in your level.
+![This is the alt text for an image!](DocImages/StoryBoard1.png)
 
 ### 2.1. Acid
 
