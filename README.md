@@ -19,14 +19,17 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+
 I have tried to seperate mechanics to give the player a feel for them before encountering them in a challenge environment. For example the first section allows the player to see the spikes and spitter before using them together in a more intense situation. Another example is the door/cube at the start to let the player know they need it to keep the door open, this also helps the player with the first challenge section of the map.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+
 The intensity curve for each section starts slow to allow the player to adjust to the new section and its mechanics. However at the end we have multiple mechanics for a challenge which increases the drama and tension for the player. The moment of relief is when they get the key for that section and they get the walk back through the section they just went through before going to the next section. This makes sure theres no drama overload or underload for the player.
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+
 The main challenges are the small areas where the keys are, the reason these are the big challenges is because it combines several mechanics with multiple enemies. This provides pressure/tension to the player who may not have time to think/move around to solve the puzzle before being killed by the enemy.
 
 ### 1.4. Exploration
