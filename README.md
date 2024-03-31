@@ -45,14 +45,12 @@ You should restructure the headings below to match the order they appear in your
 
 The reason i chose to combine all these mechanics into this encounter is to provide a somewhat challenging but sraight forward encounter to introduce the player to these mechanics. I felt if they were individually alone in a level it won't be as engaging.
 
-### 2.5. Keys
-
-### 2.6. Moving Platforms
+### 2.2. Moving Platforms
 ![This is the alt text for an image!](DocImages/Storyboard2.png)
 
 The reason i chose the moving platform here is to allow the player to use it to explore other locations within the level. The acid below it also adds an element of danger so they have to be careful.
 
-### 2.10. Weapon Pickup (Gun)
+### 2.3. Weapon Pickup (Gun), Keys
 
 ### 2.11. Weapon Pickup (Staff)
 
