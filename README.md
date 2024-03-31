@@ -43,9 +43,12 @@ You should restructure the headings below to match the order they appear in your
 ### 2.1. Acid, Checkpoints, Chompers, Health pickups, Passthrough Platforms, Spikes, Spitters
 ![This is the alt text for an image!](DocImages/StoryBoard1.png)
 
+The reason i chose to combine all these mechanics into this encounter is to provide a somewhat challenging but sraight forward encounter to introduce the player to these mechanics. I felt if they were individually alone in a level it won't be as engaging.
+
 ### 2.5. Keys
 
 ### 2.6. Moving Platforms
+![This is the alt text for an image!](DocImages/StoryBoard2.png)
 
 ### 2.10. Weapon Pickup (Gun)
 
