@@ -39,25 +39,13 @@ A section on Core Gameplay, where storyboards are used to outline how you introd
 Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
 
 You should restructure the headings below to match the order they appear in your level.
+
+### 2.1. Acid, Checkpoints, Chompers, Health pickups, Passthrough Platforms, Spikes, Spitters
 ![This is the alt text for an image!](DocImages/StoryBoard1.png)
-
-### 2.1. Acid
-
-### 2.2. Checkpoints
-
-### 2.3. Chompers
-
-### 2.4. Health Pickups
 
 ### 2.5. Keys
 
 ### 2.6. Moving Platforms
-
-### 2.7. Passthrough Platforms
-
-### 2.8. Spikes
-
-### 2.9. Spitters
 
 ### 2.10. Weapon Pickup (Gun)
 
