@@ -73,7 +73,7 @@ No additional words are necessary for this section (any words should only be wit
 ![This is the alt text for an image!](DocImages/annotated11.png)
 
 ### 3.3.	Level Map – Section 2
-
+![This is the alt text for an image!](DocImages/annotedsection2.png)
 
 ### 3.4.	Level Map – Section 3
 ![This is the alt text for an image!](DocImages/annotated3.png)
