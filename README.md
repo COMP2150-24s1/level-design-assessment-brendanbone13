@@ -83,6 +83,12 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
+Using the Iterative design process I made a lot of changes. The biggest change i believe that to the map was placing terrain stoppers. The reason I added this was because when the player used the pushable box to place onto the pressure pad, it was possible for the player to brick the level, causing the box to get stuck and unable to progress forward.
+Another change I made using the iterative design process was completely changing the layout of section 3. Section 3 relied on spitters using long range to provide challenge for the player however it didn't work due to the spitters short range. Instead I modified the section to be more of a parkour area having to jump around spikes with a few ranked spitters.
+Finally the last change I made using the iterative design process was changing the location for some of the moving platforms. The reason for this change was because sometimes if the player had a box near the platform it would actually catch the box and take it away from the player, this made it extremely difficult to get the box back on the ground.
+
+Something that can be further improved with iterative design would be expanding on the 2nd section, i believe the labyrinth is a good start however there isn't much agency for the player, i believe modifying the labyrinth to have multiple entrances/exits with different traps for the player with wrong turns would make it more exciting for the player.
+
 ## Generative AI Use Acknowledgement
 
 Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
