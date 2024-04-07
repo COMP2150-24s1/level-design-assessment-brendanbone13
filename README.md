@@ -68,7 +68,7 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
-![This is the alt text for an image!](DocImages/diagram.png)
+![This is the alt text for an image!](DocImages/diagram.PNG)
 It shows "The main branch of level-design-assessment-brendanbone13 does not contain the path DocImages/diagram1.png." however there is a png file called that in the DocImages folder, you may need to manually open it through there.
 
 ### 3.2. Level Map – Section 1
